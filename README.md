@@ -1,1 +1,5 @@
-# News-article-classification-using-bayesian-learning
+N-gram Text Tokenization for Machine Learning Training
+Project Overview
+This project focuses on the extraction, processing, and tokenization of text data from the 20 Newsgroups Dataset, specifically targeting multi-gram (n-gram) text representations to enhance machine learning model performance. The goal of this project is to improve training accuracy by generating a comprehensive range of tokenized text formats, including unigrams, bigrams, and n-grams.
+
+By utilizing this n-gram approach, the training data is enriched with more complex representations of text sequences, potentially boosting model accuracy when applied to tasks such as text classification, natural language processing (NLP), and machine learning model training.
