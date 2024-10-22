@@ -1,4 +1,4 @@
-N-gram Text Tokenization for Machine Learning Training
+#N-gram Text Tokenization for Machine Learning Training
 Project Overview
 This project focuses on the extraction, processing, and tokenization of text data from the 20 Newsgroups Dataset, specifically targeting multi-gram (n-gram) text representations to enhance machine learning model performance. The goal of this project is to improve training accuracy by generating a comprehensive range of tokenized text formats, including unigrams, bigrams, and n-grams.
 
